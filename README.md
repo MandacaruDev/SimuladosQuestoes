@@ -1,5 +1,6 @@
-##SimuladosQuestoes
+#SimuladosQuestoes
 
-#As questão devem ficar sem numeração
-#Todas as imagens e textos das perguntas e das alternativas devem ter <h1 style="display: inline"> antes de iniciar o HTML
+1-Numerar as escolhas -> SEM NUMERAÇÃO
+2-No inicio do HTML das perguntas e respostas colocar a tag -> <h1 style="display: inline">
+3-Retiras todos as tags <br>
 
