@@ -1,13 +1,11 @@
 #SimuladosQuestoes
 
 1-Numerar as escolhas -> SEM NUMERAÇÃO
-2-No inicio do HTML das perguntas e respostas colocar a tag -> <h1 style="display: inline">
-3-Retiras todos as tags -> <br>
+2-Nomear questões -> 20170920-SIMU02-Q001-5ano-PT-MAT
+3-tag -> <h1 style="display: inline">
+4-Retiras todos as tags -> <br>
 
-#Nomes
+#Nomes dos cursos
 
-1- questionario-Simulados-Matemática-4_5-anos
-2- questionario-Simulados-Português-4_5-anos
-3- questionario-Simulados-Matemática-8_9-anos
-4- questionario-Simulados-Português-8_9-anos
-
+1- questionario-Simulados-PORT-MAT-5ºANO
+2- questionario-Simulados-PORT-MAT-9ºANO
